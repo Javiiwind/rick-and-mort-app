@@ -2,6 +2,9 @@
 
 Aplicación de prueba en React utilizando la Api de Rick and Morty
 
+Link de la App:
+https://rick-and-morty-javiiwind.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
