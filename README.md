@@ -1,3 +1,7 @@
+# Rick and Mort App
+
+Aplicación de prueba en React utilizando la Api de Rick and Morty
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
